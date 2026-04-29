@@ -24,11 +24,11 @@ DEFAULT_MODEL = "deepseek-chat"
 
 # 硬编码 API keys
 HARDCODED_DEEPSEEK_KEYS = [
-    "sk-7b1ff4bd7b7242cab2050911aeda4185",  #
-    "sk-d628a871f2144bd989f25e31ddde7830",  # 
-    "sk-dad3a966c4ed4e579a054060fb4db0b0",  #
-    "sk-8f2afe3fc2bc46cd8c7cd68e09ce4153",  #
-    "sk-e6d91049fca3482eaaffb2f35af976e3"   # 
+    "sk-7b1ff4b85",  #
+    "sk-d6230",  # 
+    "sk-dad30b0",  #
+    "sk-8f2af53",  #
+    "sk-e6d9103"   # 
 ]
 
 
