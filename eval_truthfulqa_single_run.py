@@ -34,8 +34,8 @@ REWRITE_TYPES_WITH_ANSWER = [
 def get_api_keys() -> List[str]:
     """获取 API keys"""
     HARDCODED_KEYS = [
-        "sk-srnnnhejkqbbcxcfkogaamjbzolgmsympmmlajwsraulibns",
-        "sk-fpnyaeclqmgugagnapzqvddfzaodgpwrwmlfflbwbksodutz",
+        "sk-srnnnhejkqb",
+        "sk-f",
     ]
     
     if os.environ.get("USE_HARDCODED_KEYS", "true").lower() == "true":
