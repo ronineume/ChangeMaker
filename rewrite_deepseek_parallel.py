@@ -564,11 +564,11 @@ def main():
     
     # 硬编码的API密钥（修改这里）
     HARDCODED_API_KEYS = [
-        "sk-c27ca096a5f0402d9a70f59a6409ff3c",  # feb4
-        "sk-84bdd1381bba405a9eff4e0714201241",  # feb5
-        "sk-cac8f0e5bf61430a8eeea28ee9077af3",  # Feb1
-        "sk-6cc972c783ec480587e963909bf22216",  # Feb2
-        "sk-3cd3dc84cbdf4bf8817e2a924dd4b320"   # Feb3
+        "sk-",  # feb4
+        "sk-",  # feb5
+        "sk-",  # Feb1
+        "sk",  # Feb2
+        "sk-"   # Feb3
     ]
     
     api_keys = []
