@@ -37,8 +37,8 @@ def get_api_keys() -> List[str]:
     """获取 API keys，优先硬编码，其次环境变量"""
     # 硬编码 API keys（修改这里）
     HARDCODED_KEYS = [
-        "sk-srnnnhejkqbbcxcfkogaamjbzolgmsympmmlajwsraulibns",  
-        "sk-fpnyaeclqmgugagnapzqvddfzaodgpwrwmlfflbwbksodutz",  
+        "sk-srnnnhejkqbbcxcfkogaabns",  
+        "sk-fpnyaeclqmgugagn",  
         
     ]
     
